@@ -5,7 +5,7 @@ public class thewitcher {
         System.out.println( value );        // Affiche 123
 
         // Il est même possible d'écrire
-        value += 9;
+        value += 10;
         System.out.println( value );        // je passe à 132;
 
     }
